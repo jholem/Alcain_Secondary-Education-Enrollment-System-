@@ -1,0 +1,53 @@
+Name of System :
+				Secondary_Education_Enrollment_System(SEES)
+
+DESCRIPTION:	
+			Secondary_Education_Enrollment_System includes computerized   enrollment form,paying miscellaneous fee  which is easy to the user.
+		It is more effecient and lessens the time spent than in manual enrollment processing. The system  can be used by teachers or 
+		other school staff that is needed in enrolling..This system is actually for secondary education schools. 	
+
+
+FEATURES:
+		*Log-in:
+				:can log-in as user or admin
+		*User:
+			:can view the student's population
+			:has 3 sections
+
+				1.Student's Area 
+			
+					:user can add student
+					:user can update student
+					:user can search student
+					:user can drop/delete student
+					:where students can pay their miscellaneous fee
+					: 
+				2.Guardian
+					:user can edit student's guardian information
+				3.Class Schedule
+					: user can view class schedule of a certain section
+			
+			
+		
+		*Admin
+			:it is where the schoolclerk is logged-in
+			:admin is notified whenever the user added a student.
+			:admin has 4 sections
+			
+				1.HOME
+					:home contains the school's mission and vission
+				2.STUDENT SECTION
+					: admin can add student but cannot update
+					: can view students in certain year and section
+					: can  add student's guardian information
+					: can  search certain student
+				3:PHOTOS
+					:this section contains some photos of the school activities, celebrations etc.
+				4:USER MANAGEMENT
+					:this is where admin can add user, (admin is the only one that can add user)
+					:admin can view all the users
+					:admin can change his/her password
+
+
+
+students, rooms, teachers, subjects, schedules
